@@ -1,0 +1,30 @@
+{
+  "transactions": [
+    {
+      "id": "IN0000000000001",
+      "flux": "Inbound",
+      "amount": 7.93,
+      "currency": "USD",
+      "location": "The Leftbook Mutual Aid store",
+      "obs": [
+        {
+          "item": "Marx / Engels Signature LBMA shirt",
+          "total proceeds": "USD 7.93"
+        }
+        ]
+    },
+    {
+      "id": "OU0000000000001",
+      "flux": "Outbound",
+      "amount": 7.93,
+      "currency": "USD",
+      "Request": "Pantry on the Left",
+      "Cashapp": "$Shaxwell",
+      "obs": [
+        {
+          "who": "homeless comrade in Washington State currently staying in a car and is requesting help with money to get a room for hygiene and a warm decent nights rest"
+        }
+        ]
+    }
+    ]
+}
